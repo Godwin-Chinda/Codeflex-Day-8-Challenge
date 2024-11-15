@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxed-div {
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px;
+    width: 300px;
+}
+
+.boxed-p {
+    padding: 15px;
+    border: 2px dashed black;
+    margin: 20px 0;
+    width: 500px;
+}
+
+.boxed-image {
+    padding: 5px;
+    border: 4px solid black;
+    margin: 15px;
+    width: 150px;
+    height: auto;
+}
